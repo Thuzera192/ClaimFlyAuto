@@ -1,0 +1,7 @@
+name: ClaimFlyAuto
+version: 1.0
+main: me.thuzera.claimflyauto.ClaimFlyAuto
+api-version: "1.21"
+author: Thuzera192
+depend:
+  - GriefPrevention
